@@ -1,5 +1,10 @@
 # springboot-dubbo-provider-
 springboot整合dubbo，zookeeper集群做协调服务，这个做提供者(服务端)
+jdk：1.8，springboot：2.1.6，dubbo：0.2.0
+
+zookeeper：3.4.9，curator：2.12.0
+
+zookeeper集群的其中一个端口：192.168.137.131：2181
 ```
   
 ├─.mvn
